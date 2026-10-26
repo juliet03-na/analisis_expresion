@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /scratchsan/jnaranjoq/2025/Tesis/Mapeo_genes/Data/Muestrasplantas/Barb_Plants/B12_1_cont.fq, /scratchsan/jnaranjoq/2025/Tesis/Mapeo_genes/Data/Muestrasplantas/Barb_Plants/B12_2_cont.fq]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 21428362,
+    "num_assigned_fragments": 21428362,
+    "num_frags_with_concordant_consistent_mappings": 28881482,
+    "num_frags_with_inconsistent_or_orphan_mappings": 545887,
+    "strand_mapping_bias": 0.5003648704730596,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 14451279,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 14430203,
+    "SF": 277282,
+    "SR": 268605,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

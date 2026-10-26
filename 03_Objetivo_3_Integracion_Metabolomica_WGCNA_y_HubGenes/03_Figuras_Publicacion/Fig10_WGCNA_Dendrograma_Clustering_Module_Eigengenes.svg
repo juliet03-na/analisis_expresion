@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="620" viewBox="0 0 1220 620" style="background:#ffffff;font-family:Arial,Helvetica,sans-serif;">
+<text x="610" y="36" text-anchor="middle" font-size="19" font-weight="bold" fill="#1a252f">Clustering Jer&#225;rquico de Module Eigengenes (METree) y Umbrales de Fusi&#243;n (mergeCloseModules)</text>
+<text x="610" y="58" text-anchor="middle" font-size="13" fill="#5d6d7e">Explicaci&#243;n topol&#243;gica de por qu&#233; se forman 22 m&#243;dulos con mergeCutHeight = 0.25 (l&#237;nea roja) y c&#243;mo se fusionan con mergeCutHeight = 0.38 (l&#237;nea azul)</text>
+<rect x="110" y="95" width="1030" height="360" fill="#fbfcfc" stroke="#bdc3c7" stroke-width="1.2"/>
+<line x1="110" y1="455.0" x2="1140" y2="455.0" stroke="#eaecee" stroke-width="1"/>
+<text x="100" y="459.0" text-anchor="end" font-size="11" font-weight="normal" fill="#2c3e50">0.00</text>
+<line x1="110" y1="401.7" x2="1140" y2="401.7" stroke="#eaecee" stroke-width="1"/>
+<text x="100" y="405.7" text-anchor="end" font-size="11" font-weight="normal" fill="#2c3e50">0.20</text>
+<line x1="110" y1="388.3" x2="1140" y2="388.3" stroke="#eaecee" stroke-width="1"/>
+<text x="100" y="392.3" text-anchor="end" font-size="11" font-weight="bold" fill="#e74c3c">0.25</text>
+<line x1="110" y1="353.7" x2="1140" y2="353.7" stroke="#eaecee" stroke-width="1"/>
+<text x="100" y="357.7" text-anchor="end" font-size="11" font-weight="bold" fill="#2980b9">0.38</text>
+<line x1="110" y1="295.0" x2="1140" y2="295.0" stroke="#eaecee" stroke-width="1"/>
+<text x="100" y="299.0" text-anchor="end" font-size="11" font-weight="normal" fill="#2c3e50">0.60</text>
+<line x1="110" y1="241.7" x2="1140" y2="241.7" stroke="#eaecee" stroke-width="1"/>
+<text x="100" y="245.7" text-anchor="end" font-size="11" font-weight="normal" fill="#2c3e50">0.80</text>
+<line x1="110" y1="188.3" x2="1140" y2="188.3" stroke="#eaecee" stroke-width="1"/>
+<text x="100" y="192.3" text-anchor="end" font-size="11" font-weight="normal" fill="#2c3e50">1.00</text>
+<line x1="110" y1="135.0" x2="1140" y2="135.0" stroke="#eaecee" stroke-width="1"/>
+<text x="100" y="139.0" text-anchor="end" font-size="11" font-weight="normal" fill="#2c3e50">1.20</text>
+<text x="58" y="275" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a252f" transform="rotate(-90, 58, 275)">Disimilitud entre Eigengenes (1 - r)</text>
+<line x1="110" y1="388.3" x2="1140" y2="388.3" stroke="#e74c3c" stroke-dasharray="7,5" stroke-width="2.2"/>
+<text x="124" y="381.3" font-size="11.5" font-weight="bold" fill="#c0392b">Corte original WGCNA1_Data.R: mergeCutHeight = 0.25 (r &gt; 0,75) &#8594; Retiene 22 m&#243;dulos separados</text>
+<line x1="110" y1="353.7" x2="1140" y2="353.7" stroke="#2980b9" stroke-dasharray="7,5" stroke-width="2.2"/>
+<text x="124" y="346.7" font-size="11.5" font-weight="bold" fill="#1f618d">Corte consolidado sugerido: mergeCutHeight = 0.38 (r &gt; 0,62) + minModuleSize = 150 &#8594; Fusiona en 9 macro-m&#243;dulos</text>
+<polyline points="176.1,455.0 176.1,403.5 223.4,403.5 223.4,455.0" fill="none" stroke="#2980b9" stroke-width="2.6"/>
+<polyline points="270.6,455.0 270.6,392.3 317.9,392.3 317.9,455.0" fill="none" stroke="#2980b9" stroke-width="2.6"/>
+<polyline points="199.8,403.5 199.8,380.3 294.3,380.3 294.3,392.3" fill="none" stroke="#2980b9" stroke-width="2.6"/>
+<polyline points="128.9,455.0 128.9,327.2 247.0,327.2 247.0,380.3" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<polyline points="412.4,455.0 412.4,394.2 459.6,394.2 459.6,455.0" fill="none" stroke="#2980b9" stroke-width="2.6"/>
+<polyline points="554.1,455.0 554.1,407.3 601.4,407.3 601.4,455.0" fill="none" stroke="#2980b9" stroke-width="2.6"/>
+<polyline points="506.9,455.0 506.9,381.8 577.8,381.8 577.8,407.3" fill="none" stroke="#2980b9" stroke-width="2.6"/>
+<polyline points="436.0,394.2 436.0,378.4 542.3,378.4 542.3,381.8" fill="none" stroke="#2980b9" stroke-width="2.6"/>
+<polyline points="365.1,455.0 365.1,313.1 489.2,313.1 489.2,378.4" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<polyline points="188.0,327.2 188.0,267.7 427.2,267.7 427.2,313.1" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<polyline points="695.9,455.0 695.9,361.7 743.1,361.7 743.1,455.0" fill="none" stroke="#2980b9" stroke-width="2.6"/>
+<polyline points="648.6,455.0 648.6,247.6 719.5,247.6 719.5,361.7" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<polyline points="790.4,455.0 790.4,372.0 837.6,372.0 837.6,455.0" fill="none" stroke="#2980b9" stroke-width="2.6"/>
+<polyline points="884.9,455.0 884.9,316.0 932.1,316.0 932.1,455.0" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<polyline points="814.0,372.0 814.0,259.9 908.5,259.9 908.5,316.0" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<polyline points="1073.9,455.0 1073.9,366.9 1121.1,366.9 1121.1,455.0" fill="none" stroke="#2980b9" stroke-width="2.6"/>
+<polyline points="1026.6,455.0 1026.6,252.0 1097.5,252.0 1097.5,366.9" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<polyline points="979.4,455.0 979.4,227.3 1062.0,227.3 1062.0,252.0" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<polyline points="861.2,259.9 861.2,194.9 1020.7,194.9 1020.7,227.3" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<polyline points="684.1,247.6 684.1,165.7 941.0,165.7 941.0,194.9" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<polyline points="307.6,267.7 307.6,133.0 812.5,133.0 812.5,165.7" fill="none" stroke="#2c3e50" stroke-width="2.0"/>
+<rect x="117.9" y="461" width="22" height="14" rx="2" fill="#27ae60" stroke="#34495e" stroke-width="0.8"/>
+<text x="131.9" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 131.9, 487)">MEgreen (1454)</text>
+<rect x="165.1" y="461" width="22" height="14" rx="2" fill="#f1c40f" stroke="#34495e" stroke-width="0.8"/>
+<text x="179.1" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 179.1, 487)">MEyellow (1573)</text>
+<rect x="212.4" y="461" width="22" height="14" rx="2" fill="#8e44ad" stroke="#34495e" stroke-width="0.8"/>
+<text x="226.4" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 226.4, 487)">MEpurple (736)</text>
+<rect x="259.6" y="461" width="22" height="14" rx="2" fill="#a2d9ce" stroke="#34495e" stroke-width="0.8"/>
+<text x="273.6" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 273.6, 487)">MEgreenyellow (704)</text>
+<rect x="306.9" y="461" width="22" height="14" rx="2" fill="#191970" stroke="#34495e" stroke-width="0.8"/>
+<text x="320.9" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 320.9, 487)">MEmidnightblue (469)</text>
+<rect x="354.1" y="461" width="22" height="14" rx="2" fill="#ff69b4" stroke="#34495e" stroke-width="0.8"/>
+<text x="368.1" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 368.1, 487)">MEpink (895)</text>
+<rect x="401.4" y="461" width="22" height="14" rx="2" fill="#40e0d0" stroke="#34495e" stroke-width="0.8"/>
+<text x="415.4" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 415.4, 487)">MEturquoise (17694)</text>
+<rect x="448.6" y="461" width="22" height="14" rx="2" fill="#fa8072" stroke="#34495e" stroke-width="0.8"/>
+<text x="462.6" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 462.6, 487)">MEsalmon (678)</text>
+<rect x="495.9" y="461" width="22" height="14" rx="2" fill="#c0392b" stroke="#34495e" stroke-width="0.8"/>
+<text x="509.9" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 509.9, 487)">MEmagenta (806)</text>
+<rect x="543.1" y="461" width="22" height="14" rx="2" fill="#2980b9" stroke="#34495e" stroke-width="0.8"/>
+<text x="557.1" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 557.1, 487)">MEblue (2345)</text>
+<rect x="590.4" y="461" width="22" height="14" rx="2" fill="#2c3e50" stroke="#34495e" stroke-width="0.8"/>
+<text x="604.4" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 604.4, 487)">MEblack (966)</text>
+<rect x="637.6" y="461" width="22" height="14" rx="2" fill="#4169e1" stroke="#34495e" stroke-width="0.8"/>
+<text x="651.6" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 651.6, 487)">MEroyalblue (86)</text>
+<rect x="684.9" y="461" width="22" height="14" rx="2" fill="#00bcd4" stroke="#34495e" stroke-width="0.8"/>
+<text x="698.9" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 698.9, 487)">MEcyan (604)</text>
+<rect x="732.1" y="461" width="22" height="14" rx="2" fill="#82e0aa" stroke="#34495e" stroke-width="0.8"/>
+<text x="746.1" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 746.1, 487)">MElightgreen (164)</text>
+<rect x="779.4" y="461" width="22" height="14" rx="2" fill="#81d4fa" stroke="#34495e" stroke-width="0.8"/>
+<text x="793.4" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 793.4, 487)">MElightcyan (187)</text>
+<rect x="826.6" y="461" width="22" height="14" rx="2" fill="#7f8c8d" stroke="#34495e" stroke-width="0.8"/>
+<text x="840.6" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 840.6, 487)">MEgrey60 (183)</text>
+<rect x="873.9" y="461" width="22" height="14" rx="2" fill="#8b4513" stroke="#34495e" stroke-width="0.8"/>
+<text x="887.9" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 887.9, 487)">MEbrown (1736)</text>
+<rect x="921.1" y="461" width="22" height="14" rx="2" fill="#d2b48c" stroke="#34495e" stroke-width="0.8"/>
+<text x="935.1" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 935.1, 487)">MEtan (685)</text>
+<rect x="968.4" y="461" width="22" height="14" rx="2" fill="#e74c3c" stroke="#34495e" stroke-width="0.8"/>
+<text x="982.4" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 982.4, 487)">MEred (1427)</text>
+<rect x="1015.6" y="461" width="22" height="14" rx="2" fill="#145a32" stroke="#34495e" stroke-width="0.8"/>
+<text x="1029.6" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 1029.6, 487)">MEdarkgreen (81)</text>
+<rect x="1062.9" y="461" width="22" height="14" rx="2" fill="#f9e79f" stroke="#34495e" stroke-width="0.8"/>
+<text x="1076.9" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 1076.9, 487)">MElightyellow (122)</text>
+<rect x="1110.1" y="461" width="22" height="14" rx="2" fill="#900c3f" stroke="#34495e" stroke-width="0.8"/>
+<text x="1124.1" y="487" text-anchor="end" font-size="11" font-weight="bold" fill="#1a252f" transform="rotate(-42, 1124.1, 487)">MEdarkred (82)</text>
+<text x="610" y="602" text-anchor="middle" font-size="12" fill="#34495e">Las ramas en azul (1 - r &#8804; 0,38) muestran pares de m&#243;dulos altamente co-expresados (ej. MEblue + MEmagenta en Tierras Bajas, o MEbrown + MEtan en Datura).</text>
+</svg>

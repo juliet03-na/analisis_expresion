@@ -1,0 +1,274 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="780" viewBox="0 0 960 780" style="background:#ffffff;font-family:Arial,Helvetica,sans-serif;">
+<text x="480" y="38" text-anchor="middle" font-size="19" font-weight="bold" fill="#1a252f">Matriz de Correlaci&#243;n de Pearson entre Muestras (Expresi&#243;n VST &#8212; 36.647 Transcritos)</text>
+<text x="480" y="62" text-anchor="middle" font-size="13" fill="#5d6d7e">Agrupamiento neto en 3 cl&#250;steres: Subclado B (Tierras Bajas), Subclado A (Alta Monta&#241;a) y Clado Datura + Outgroup B19</text>
+<rect x="206" y="122" width="16" height="50" fill="#27ae60" rx="3"/>
+<text x="198" y="152" text-anchor="end" font-size="12.5" font-weight="bold" fill="#1a252f">B9 (B. insignis)</text>
+<rect x="232" y="98" width="50" height="14" fill="#27ae60" rx="3"/>
+<text x="257" y="92" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1a252f">B9</text>
+<rect x="230" y="120" width="54" height="54" fill="#d73027" stroke="#ffffff" stroke-width="1.5"/>
+<text x="257" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">1.00</text>
+<rect x="284" y="120" width="54" height="54" fill="#e26245" stroke="#ffffff" stroke-width="1.5"/>
+<text x="311" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.88</text>
+<rect x="338" y="120" width="54" height="54" fill="#efa06a" stroke="#ffffff" stroke-width="1.5"/>
+<text x="365" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.74</text>
+<rect x="392" y="120" width="54" height="54" fill="#f2aa70" stroke="#ffffff" stroke-width="1.5"/>
+<text x="419" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.71</text>
+<rect x="446" y="120" width="54" height="54" fill="#eed693" stroke="#ffffff" stroke-width="1.5"/>
+<text x="473" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.55</text>
+<rect x="500" y="120" width="54" height="54" fill="#eed693" stroke="#ffffff" stroke-width="1.5"/>
+<text x="527" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.56</text>
+<rect x="554" y="120" width="54" height="54" fill="#f2d992" stroke="#ffffff" stroke-width="1.5"/>
+<text x="581" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.57</text>
+<rect x="608" y="120" width="54" height="54" fill="#97a4a3" stroke="#ffffff" stroke-width="1.5"/>
+<text x="635" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.36</text>
+<rect x="662" y="120" width="54" height="54" fill="#a3aba1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="689" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.39</text>
+<rect x="716" y="120" width="54" height="54" fill="#527cb1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="743" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.21</text>
+<rect x="206" y="176" width="16" height="50" fill="#27ae60" rx="3"/>
+<text x="198" y="206" text-anchor="end" font-size="12.5" font-weight="bold" fill="#1a252f">B12 (B. suaveolens)</text>
+<rect x="286" y="98" width="50" height="14" fill="#27ae60" rx="3"/>
+<text x="311" y="92" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1a252f">B12</text>
+<rect x="230" y="174" width="54" height="54" fill="#e26245" stroke="#ffffff" stroke-width="1.5"/>
+<text x="257" y="206" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.88</text>
+<rect x="284" y="174" width="54" height="54" fill="#d73027" stroke="#ffffff" stroke-width="1.5"/>
+<text x="311" y="206" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">1.00</text>
+<rect x="338" y="174" width="54" height="54" fill="#f0a36b" stroke="#ffffff" stroke-width="1.5"/>
+<text x="365" y="206" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.73</text>
+<rect x="392" y="174" width="54" height="54" fill="#f0a36c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="419" y="206" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.73</text>
+<rect x="446" y="174" width="54" height="54" fill="#f5db91" stroke="#ffffff" stroke-width="1.5"/>
+<text x="473" y="206" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.57</text>
+<rect x="500" y="174" width="54" height="54" fill="#fadd90" stroke="#ffffff" stroke-width="1.5"/>
+<text x="527" y="206" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.58</text>
+<rect x="554" y="174" width="54" height="54" fill="#ebd593" stroke="#ffffff" stroke-width="1.5"/>
+<text x="581" y="206" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.55</text>
+<rect x="608" y="174" width="54" height="54" fill="#9ba7a3" stroke="#ffffff" stroke-width="1.5"/>
+<text x="635" y="206" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.37</text>
+<rect x="662" y="174" width="54" height="54" fill="#9da8a2" stroke="#ffffff" stroke-width="1.5"/>
+<text x="689" y="206" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.38</text>
+<rect x="716" y="174" width="54" height="54" fill="#4a78b2" stroke="#ffffff" stroke-width="1.5"/>
+<text x="743" y="206" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.19</text>
+<rect x="206" y="230" width="16" height="50" fill="#27ae60" rx="3"/>
+<text x="198" y="260" text-anchor="end" font-size="12.5" font-weight="bold" fill="#1a252f">B14 (B. versicolor)</text>
+<rect x="340" y="98" width="50" height="14" fill="#27ae60" rx="3"/>
+<text x="365" y="92" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1a252f">B14</text>
+<rect x="230" y="228" width="54" height="54" fill="#efa06a" stroke="#ffffff" stroke-width="1.5"/>
+<text x="257" y="260" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.74</text>
+<rect x="284" y="228" width="54" height="54" fill="#f0a36b" stroke="#ffffff" stroke-width="1.5"/>
+<text x="311" y="260" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.73</text>
+<rect x="338" y="228" width="54" height="54" fill="#d73027" stroke="#ffffff" stroke-width="1.5"/>
+<text x="365" y="260" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">1.00</text>
+<rect x="392" y="228" width="54" height="54" fill="#eb8c5e" stroke="#ffffff" stroke-width="1.5"/>
+<text x="419" y="260" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.78</text>
+<rect x="446" y="228" width="54" height="54" fill="#fbd288" stroke="#ffffff" stroke-width="1.5"/>
+<text x="473" y="260" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.62</text>
+<rect x="500" y="228" width="54" height="54" fill="#fcda8c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="527" y="260" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.60</text>
+<rect x="554" y="228" width="54" height="54" fill="#f8c882" stroke="#ffffff" stroke-width="1.5"/>
+<text x="581" y="260" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.64</text>
+<rect x="608" y="228" width="54" height="54" fill="#b3b49e" stroke="#ffffff" stroke-width="1.5"/>
+<text x="635" y="260" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.42</text>
+<rect x="662" y="228" width="54" height="54" fill="#b3b59e" stroke="#ffffff" stroke-width="1.5"/>
+<text x="689" y="260" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.43</text>
+<rect x="716" y="228" width="54" height="54" fill="#5a81af" stroke="#ffffff" stroke-width="1.5"/>
+<text x="743" y="260" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.23</text>
+<rect x="206" y="284" width="16" height="50" fill="#27ae60" rx="3"/>
+<text x="198" y="314" text-anchor="end" font-size="12.5" font-weight="bold" fill="#1a252f">B21 (B. aurea)</text>
+<rect x="394" y="98" width="50" height="14" fill="#27ae60" rx="3"/>
+<text x="419" y="92" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1a252f">B21</text>
+<rect x="230" y="282" width="54" height="54" fill="#f2aa70" stroke="#ffffff" stroke-width="1.5"/>
+<text x="257" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.71</text>
+<rect x="284" y="282" width="54" height="54" fill="#f0a36c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="311" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.73</text>
+<rect x="338" y="282" width="54" height="54" fill="#eb8c5e" stroke="#ffffff" stroke-width="1.5"/>
+<text x="365" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.78</text>
+<rect x="392" y="282" width="54" height="54" fill="#d73027" stroke="#ffffff" stroke-width="1.5"/>
+<text x="419" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">1.00</text>
+<rect x="446" y="282" width="54" height="54" fill="#f9cb83" stroke="#ffffff" stroke-width="1.5"/>
+<text x="473" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.64</text>
+<rect x="500" y="282" width="54" height="54" fill="#fbd489" stroke="#ffffff" stroke-width="1.5"/>
+<text x="527" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.62</text>
+<rect x="554" y="282" width="54" height="54" fill="#f9cb83" stroke="#ffffff" stroke-width="1.5"/>
+<text x="581" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.64</text>
+<rect x="608" y="282" width="54" height="54" fill="#b1b39e" stroke="#ffffff" stroke-width="1.5"/>
+<text x="635" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.42</text>
+<rect x="662" y="282" width="54" height="54" fill="#aeb29f" stroke="#ffffff" stroke-width="1.5"/>
+<text x="689" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.41</text>
+<rect x="716" y="282" width="54" height="54" fill="#5880b0" stroke="#ffffff" stroke-width="1.5"/>
+<text x="743" y="314" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.22</text>
+<rect x="206" y="338" width="16" height="50" fill="#2980b9" rx="3"/>
+<text x="198" y="368" text-anchor="end" font-size="12.5" font-weight="bold" fill="#1a252f">B10 (B. sanguinea)</text>
+<rect x="448" y="98" width="50" height="14" fill="#2980b9" rx="3"/>
+<text x="473" y="92" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1a252f">B10</text>
+<rect x="230" y="336" width="54" height="54" fill="#eed693" stroke="#ffffff" stroke-width="1.5"/>
+<text x="257" y="368" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.55</text>
+<rect x="284" y="336" width="54" height="54" fill="#f5db91" stroke="#ffffff" stroke-width="1.5"/>
+<text x="311" y="368" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.57</text>
+<rect x="338" y="336" width="54" height="54" fill="#fbd288" stroke="#ffffff" stroke-width="1.5"/>
+<text x="365" y="368" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.62</text>
+<rect x="392" y="336" width="54" height="54" fill="#f9cb83" stroke="#ffffff" stroke-width="1.5"/>
+<text x="419" y="368" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.64</text>
+<rect x="446" y="336" width="54" height="54" fill="#d73027" stroke="#ffffff" stroke-width="1.5"/>
+<text x="473" y="368" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">1.00</text>
+<rect x="500" y="336" width="54" height="54" fill="#e46c4b" stroke="#ffffff" stroke-width="1.5"/>
+<text x="527" y="368" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.86</text>
+<rect x="554" y="336" width="54" height="54" fill="#e98258" stroke="#ffffff" stroke-width="1.5"/>
+<text x="581" y="368" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.81</text>
+<rect x="608" y="336" width="54" height="54" fill="#c4be9b" stroke="#ffffff" stroke-width="1.5"/>
+<text x="635" y="368" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.46</text>
+<rect x="662" y="336" width="54" height="54" fill="#bfbc9c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="689" y="368" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.45</text>
+<rect x="716" y="336" width="54" height="54" fill="#6588ad" stroke="#ffffff" stroke-width="1.5"/>
+<text x="743" y="368" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.25</text>
+<rect x="206" y="392" width="16" height="50" fill="#2980b9" rx="3"/>
+<text x="198" y="422" text-anchor="end" font-size="12.5" font-weight="bold" fill="#1a252f">B11 (B. sang. x vulc.)</text>
+<rect x="502" y="98" width="50" height="14" fill="#2980b9" rx="3"/>
+<text x="527" y="92" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1a252f">B11</text>
+<rect x="230" y="390" width="54" height="54" fill="#eed693" stroke="#ffffff" stroke-width="1.5"/>
+<text x="257" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.56</text>
+<rect x="284" y="390" width="54" height="54" fill="#fadd90" stroke="#ffffff" stroke-width="1.5"/>
+<text x="311" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.58</text>
+<rect x="338" y="390" width="54" height="54" fill="#fcda8c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="365" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.60</text>
+<rect x="392" y="390" width="54" height="54" fill="#fbd489" stroke="#ffffff" stroke-width="1.5"/>
+<text x="419" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.62</text>
+<rect x="446" y="390" width="54" height="54" fill="#e46c4b" stroke="#ffffff" stroke-width="1.5"/>
+<text x="473" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.86</text>
+<rect x="500" y="390" width="54" height="54" fill="#d73027" stroke="#ffffff" stroke-width="1.5"/>
+<text x="527" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">1.00</text>
+<rect x="554" y="390" width="54" height="54" fill="#ec9060" stroke="#ffffff" stroke-width="1.5"/>
+<text x="581" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.78</text>
+<rect x="608" y="390" width="54" height="54" fill="#c8c09a" stroke="#ffffff" stroke-width="1.5"/>
+<text x="635" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.47</text>
+<rect x="662" y="390" width="54" height="54" fill="#bfbb9c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="689" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.45</text>
+<rect x="716" y="390" width="54" height="54" fill="#6487ad" stroke="#ffffff" stroke-width="1.5"/>
+<text x="743" y="422" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.25</text>
+<rect x="206" y="446" width="16" height="50" fill="#2980b9" rx="3"/>
+<text x="198" y="476" text-anchor="end" font-size="12.5" font-weight="bold" fill="#1a252f">B15 (B. vulcanicola)</text>
+<rect x="556" y="98" width="50" height="14" fill="#2980b9" rx="3"/>
+<text x="581" y="92" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1a252f">B15</text>
+<rect x="230" y="444" width="54" height="54" fill="#f2d992" stroke="#ffffff" stroke-width="1.5"/>
+<text x="257" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.57</text>
+<rect x="284" y="444" width="54" height="54" fill="#ebd593" stroke="#ffffff" stroke-width="1.5"/>
+<text x="311" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.55</text>
+<rect x="338" y="444" width="54" height="54" fill="#f8c882" stroke="#ffffff" stroke-width="1.5"/>
+<text x="365" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.64</text>
+<rect x="392" y="444" width="54" height="54" fill="#f9cb83" stroke="#ffffff" stroke-width="1.5"/>
+<text x="419" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.64</text>
+<rect x="446" y="444" width="54" height="54" fill="#e98258" stroke="#ffffff" stroke-width="1.5"/>
+<text x="473" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.81</text>
+<rect x="500" y="444" width="54" height="54" fill="#ec9060" stroke="#ffffff" stroke-width="1.5"/>
+<text x="527" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.78</text>
+<rect x="554" y="444" width="54" height="54" fill="#d73027" stroke="#ffffff" stroke-width="1.5"/>
+<text x="581" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">1.00</text>
+<rect x="608" y="444" width="54" height="54" fill="#c7c09a" stroke="#ffffff" stroke-width="1.5"/>
+<text x="635" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.47</text>
+<rect x="662" y="444" width="54" height="54" fill="#c6c09a" stroke="#ffffff" stroke-width="1.5"/>
+<text x="689" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.47</text>
+<rect x="716" y="444" width="54" height="54" fill="#6889ad" stroke="#ffffff" stroke-width="1.5"/>
+<text x="743" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.26</text>
+<rect x="206" y="500" width="16" height="50" fill="#e67e22" rx="3"/>
+<text x="198" y="530" text-anchor="end" font-size="12.5" font-weight="bold" fill="#1a252f">B17 (D. stramonium)</text>
+<rect x="610" y="98" width="50" height="14" fill="#e67e22" rx="3"/>
+<text x="635" y="92" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1a252f">B17</text>
+<rect x="230" y="498" width="54" height="54" fill="#97a4a3" stroke="#ffffff" stroke-width="1.5"/>
+<text x="257" y="530" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.36</text>
+<rect x="284" y="498" width="54" height="54" fill="#9ba7a3" stroke="#ffffff" stroke-width="1.5"/>
+<text x="311" y="530" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.37</text>
+<rect x="338" y="498" width="54" height="54" fill="#b3b49e" stroke="#ffffff" stroke-width="1.5"/>
+<text x="365" y="530" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.42</text>
+<rect x="392" y="498" width="54" height="54" fill="#b1b39e" stroke="#ffffff" stroke-width="1.5"/>
+<text x="419" y="530" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.42</text>
+<rect x="446" y="498" width="54" height="54" fill="#c4be9b" stroke="#ffffff" stroke-width="1.5"/>
+<text x="473" y="530" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.46</text>
+<rect x="500" y="498" width="54" height="54" fill="#c8c09a" stroke="#ffffff" stroke-width="1.5"/>
+<text x="527" y="530" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.47</text>
+<rect x="554" y="498" width="54" height="54" fill="#c7c09a" stroke="#ffffff" stroke-width="1.5"/>
+<text x="581" y="530" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.47</text>
+<rect x="608" y="498" width="54" height="54" fill="#d73027" stroke="#ffffff" stroke-width="1.5"/>
+<text x="635" y="530" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">1.00</text>
+<rect x="662" y="498" width="54" height="54" fill="#ed9664" stroke="#ffffff" stroke-width="1.5"/>
+<text x="689" y="530" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.76</text>
+<rect x="716" y="498" width="54" height="54" fill="#869ba7" stroke="#ffffff" stroke-width="1.5"/>
+<text x="743" y="530" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.33</text>
+<rect x="206" y="554" width="16" height="50" fill="#e67e22" rx="3"/>
+<text x="198" y="584" text-anchor="end" font-size="12.5" font-weight="bold" fill="#1a252f">B27 (D. wrightii)</text>
+<rect x="664" y="98" width="50" height="14" fill="#e67e22" rx="3"/>
+<text x="689" y="92" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1a252f">B27</text>
+<rect x="230" y="552" width="54" height="54" fill="#a3aba1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="257" y="584" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.39</text>
+<rect x="284" y="552" width="54" height="54" fill="#9da8a2" stroke="#ffffff" stroke-width="1.5"/>
+<text x="311" y="584" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.38</text>
+<rect x="338" y="552" width="54" height="54" fill="#b3b59e" stroke="#ffffff" stroke-width="1.5"/>
+<text x="365" y="584" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.43</text>
+<rect x="392" y="552" width="54" height="54" fill="#aeb29f" stroke="#ffffff" stroke-width="1.5"/>
+<text x="419" y="584" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.41</text>
+<rect x="446" y="552" width="54" height="54" fill="#bfbc9c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="473" y="584" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.45</text>
+<rect x="500" y="552" width="54" height="54" fill="#bfbb9c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="527" y="584" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.45</text>
+<rect x="554" y="552" width="54" height="54" fill="#c6c09a" stroke="#ffffff" stroke-width="1.5"/>
+<text x="581" y="584" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.47</text>
+<rect x="608" y="552" width="54" height="54" fill="#ed9664" stroke="#ffffff" stroke-width="1.5"/>
+<text x="635" y="584" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.76</text>
+<rect x="662" y="552" width="54" height="54" fill="#d73027" stroke="#ffffff" stroke-width="1.5"/>
+<text x="689" y="584" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">1.00</text>
+<rect x="716" y="552" width="54" height="54" fill="#899ca6" stroke="#ffffff" stroke-width="1.5"/>
+<text x="743" y="584" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.33</text>
+<rect x="206" y="608" width="16" height="50" fill="#8e44ad" rx="3"/>
+<text x="198" y="638" text-anchor="end" font-size="12.5" font-weight="bold" fill="#1a252f">B19 (A. belladonna)</text>
+<rect x="718" y="98" width="50" height="14" fill="#8e44ad" rx="3"/>
+<text x="743" y="92" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1a252f">B19</text>
+<rect x="230" y="606" width="54" height="54" fill="#527cb1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="257" y="638" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.21</text>
+<rect x="284" y="606" width="54" height="54" fill="#4a78b2" stroke="#ffffff" stroke-width="1.5"/>
+<text x="311" y="638" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.19</text>
+<rect x="338" y="606" width="54" height="54" fill="#5a81af" stroke="#ffffff" stroke-width="1.5"/>
+<text x="365" y="638" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.23</text>
+<rect x="392" y="606" width="54" height="54" fill="#5880b0" stroke="#ffffff" stroke-width="1.5"/>
+<text x="419" y="638" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.22</text>
+<rect x="446" y="606" width="54" height="54" fill="#6588ad" stroke="#ffffff" stroke-width="1.5"/>
+<text x="473" y="638" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.25</text>
+<rect x="500" y="606" width="54" height="54" fill="#6487ad" stroke="#ffffff" stroke-width="1.5"/>
+<text x="527" y="638" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.25</text>
+<rect x="554" y="606" width="54" height="54" fill="#6889ad" stroke="#ffffff" stroke-width="1.5"/>
+<text x="581" y="638" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">0.26</text>
+<rect x="608" y="606" width="54" height="54" fill="#869ba7" stroke="#ffffff" stroke-width="1.5"/>
+<text x="635" y="638" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.33</text>
+<rect x="662" y="606" width="54" height="54" fill="#899ca6" stroke="#ffffff" stroke-width="1.5"/>
+<text x="689" y="638" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a252f">0.33</text>
+<rect x="716" y="606" width="54" height="54" fill="#d73027" stroke="#ffffff" stroke-width="1.5"/>
+<text x="743" y="638" text-anchor="middle" font-size="12" font-weight="bold" fill="#ffffff">1.00</text>
+<rect x="230" y="120" width="216" height="216" fill="none" stroke="#1e8449" stroke-width="3.5"/>
+<rect x="446" y="336" width="162" height="162" fill="none" stroke="#1f618d" stroke-width="3.5"/>
+<rect x="608" y="498" width="108" height="108" fill="none" stroke="#d35400" stroke-width="3.5"/>
+<text x="805" y="135" font-size="12.5" font-weight="bold" fill="#1a252f">Escala Pearson r</text>
+<rect x="805" y="150" width="26" height="14" fill="#d73027"/>
+<text x="839" y="161" font-size="11" fill="#2c3e50">1.00</text>
+<rect x="805" y="164" width="26" height="14" fill="#db4232"/>
+<rect x="805" y="178" width="26" height="14" fill="#df553d"/>
+<rect x="805" y="192" width="26" height="14" fill="#e36748"/>
+<rect x="805" y="206" width="26" height="14" fill="#e77a53"/>
+<rect x="805" y="220" width="26" height="14" fill="#eb8c5e"/>
+<text x="839" y="231" font-size="11" fill="#2c3e50">0.78</text>
+<rect x="805" y="234" width="26" height="14" fill="#ef9f69"/>
+<rect x="805" y="248" width="26" height="14" fill="#f3b174"/>
+<rect x="805" y="262" width="26" height="14" fill="#f7c47f"/>
+<rect x="805" y="276" width="26" height="14" fill="#fbd68a"/>
+<rect x="805" y="290" width="26" height="14" fill="#f4da91"/>
+<text x="839" y="301" font-size="11" fill="#2c3e50">0.57</text>
+<rect x="805" y="304" width="26" height="14" fill="#e0cf95"/>
+<rect x="805" y="318" width="26" height="14" fill="#cdc399"/>
+<rect x="805" y="332" width="26" height="14" fill="#b9b89d"/>
+<rect x="805" y="346" width="26" height="14" fill="#a6ada1"/>
+<rect x="805" y="360" width="26" height="14" fill="#92a2a4"/>
+<text x="839" y="371" font-size="11" fill="#2c3e50">0.35</text>
+<rect x="805" y="374" width="26" height="14" fill="#7f96a8"/>
+<rect x="805" y="388" width="26" height="14" fill="#6b8bac"/>
+<rect x="805" y="402" width="26" height="14" fill="#5880b0"/>
+<rect x="805" y="416" width="26" height="14" fill="#4575b4"/>
+<text x="839" y="427" font-size="11" fill="#2c3e50">0.18</text>
+<text x="480" y="752" text-anchor="middle" font-size="12" fill="#34495e">Los recuadros destacan la alta correlaci&#243;n intra-nicho: Subclado B Tierras Bajas (r = 0,71&#8211;0,88), Subclado A Alta Monta&#241;a (r = 0,78&#8211;0,86) y Datura (r = 0,76).</text>
+</svg>
