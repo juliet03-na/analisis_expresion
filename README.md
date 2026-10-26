@@ -64,3 +64,4 @@ flowchart TD
 ## 4. Atlas Consolidado de Figuras ([`04_Atlas_Figuras_Tesis/`](./04_Atlas_Figuras_Tesis)) y Base LLMWiki ([`llmwiki_tesis_datura/`](./llmwiki_tesis_datura))
 - [`04_Atlas_Figuras_Tesis/`](./04_Atlas_Figuras_Tesis): Contiene las 10 figuras (`Fig01` a `Fig10`) en triple formato (`.svg`, `.png` y `.pdf`).
 - [`llmwiki_tesis_datura/00_INDEX.md`](./llmwiki_tesis_datura/00_INDEX.md): Índice maestro de los 8 nodos de conocimiento de la tesis.
+# Actualización de prueba
