@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.10.3",
+    "index": "./salmon_index_plantas",
+    "libType": "A",
+    "mates1": "/scratchsan/jnaranjoq/2025/Tesis/Mapeo_genes/Data/Muestrasplantas/Barb_Plants/B12_1_cont.fq",
+    "mates2": "/scratchsan/jnaranjoq/2025/Tesis/Mapeo_genes/Data/Muestrasplantas/Barb_Plants/B12_2_cont.fq",
+    "threads": "64",
+    "validateMappings": [],
+    "output": "./B12_quant",
+    "auxDir": "aux_info"
+}

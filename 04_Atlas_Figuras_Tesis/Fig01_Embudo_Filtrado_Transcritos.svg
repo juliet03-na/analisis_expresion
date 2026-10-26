@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="680" viewBox="0 0 1150 680" style="background:#ffffff;font-family:Arial,Helvetica,sans-serif;">
+<text x="575" y="42" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a252f">Embudo de Filtrado y Normalizaci&#243;n Transcript&#243;mica (M&#243;dulos 1 y 3 &#8212; Normalizacion3.R)</text>
+<text x="575" y="68" text-anchor="middle" font-size="13" fill="#5d6d7e">Trazabilidad exacta desde contigs crudos de rnaSPAdes hasta la matriz homoced&#225;stica VST-MAD para WGCNA</text>
+<polygon points="345,95 805,95 795,149 355,149" fill="#1b4f72" stroke="#ffffff" stroke-width="2" opacity="0.93"/>
+<text x="28" y="120" font-size="13" font-weight="bold" fill="#1a252f">Ensamblaje crudo rnaSPAdes (K=49, 73)</text>
+<text x="28" y="139" font-size="11.5" fill="#566573">Co-ensamblaje de novo inicial</text>
+<text x="575" y="128" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#ffffff">135.008 transcritos (109.7%)</text>
+<rect x="845" y="105" width="275" height="34" rx="6" fill="#eafaf1" stroke="#27ae60" stroke-width="1"/>
+<text x="982" y="127" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1e8449">Retenci&#243;n &#237;ntegra (0 eliminados)</text>
+<polygon points="355,169 795,169 795,223 355,223" fill="#21618c" stroke="#ffffff" stroke-width="2" opacity="0.93"/>
+<text x="28" y="194" font-size="13" font-weight="bold" fill="#1a252f">Paso 0: Post-cluster CD-HIT-EST (-c 0.95)</text>
+<text x="28" y="213" font-size="11.5" fill="#566573">-8,8% redundancia (98,3% mapeo Bowtie2)</text>
+<text x="575" y="202" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#ffffff">123.099 transcritos (100.0%)</text>
+<rect x="845" y="179" width="275" height="34" rx="6" fill="#fdedec" stroke="#e74c3c" stroke-width="1"/>
+<text x="982" y="201" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c0392b">Eliminados: -11.909 transcritos</text>
+<polygon points="355,243 795,243 742,297 408,297" fill="#2874a6" stroke="#ffffff" stroke-width="2" opacity="0.93"/>
+<text x="28" y="268" font-size="13" font-weight="bold" fill="#1a252f">Pasos 1-2: Suma &gt; 0 y Varianza &gt; 0</text>
+<text x="28" y="287" font-size="11.5" fill="#566573">Remoci&#243;n de transcritos inactivos</text>
+<text x="575" y="276" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#ffffff">122.690 transcritos (99.7%)</text>
+<rect x="845" y="253" width="275" height="34" rx="6" fill="#fdedec" stroke="#e74c3c" stroke-width="1"/>
+<text x="982" y="275" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c0392b">Eliminados: -409 transcritos</text>
+<polygon points="408,317 742,317 742,371 408,371" fill="#2e86c1" stroke="#ffffff" stroke-width="2" opacity="0.93"/>
+<text x="28" y="342" font-size="13" font-weight="bold" fill="#1a252f">Paso 3: Expresi&#243;n m&#237;nima (rowSums &gt;= 25)</text>
+<text x="28" y="361" font-size="11.5" fill="#566573">Filtro principal de ruido de bajo conteo</text>
+<text x="575" y="350" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#ffffff">54.435 transcritos (44.2%)</text>
+<rect x="845" y="327" width="275" height="34" rx="6" fill="#fdedec" stroke="#e74c3c" stroke-width="1"/>
+<text x="982" y="349" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c0392b">Eliminados: -68.255 transcritos</text>
+<polygon points="408,391 742,391 742,445 408,445" fill="#3498db" stroke="#ffffff" stroke-width="2" opacity="0.93"/>
+<text x="28" y="416" font-size="13" font-weight="bold" fill="#1a252f">Paso 4: Filtro de extremos (max &lt;= 50.000)</text>
+<text x="28" y="435" font-size="11.5" fill="#566573">Remoci&#243;n de hiper-expresi&#243;n nivel 1</text>
+<text x="575" y="424" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#ffffff">54.409 transcritos (44.2%)</text>
+<rect x="845" y="401" width="275" height="34" rx="6" fill="#fdedec" stroke="#e74c3c" stroke-width="1"/>
+<text x="982" y="423" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c0392b">Eliminados: -26 transcritos</text>
+<polygon points="408,465 742,465 728,519 422,519" fill="#17a589" stroke="#ffffff" stroke-width="2" opacity="0.93"/>
+<text x="28" y="490" font-size="13" font-weight="bold" fill="#1a252f">Pasos 5-6: max &lt;= 30.000 + Duplicados + VST</text>
+<text x="28" y="509" font-size="11.5" fill="#566573">Conteo exacto Pre-MAD estabilizado (VST)</text>
+<text x="575" y="498" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#ffffff">54.363 transcritos (44.2%)</text>
+<rect x="845" y="475" width="275" height="34" rx="6" fill="#fdedec" stroke="#e74c3c" stroke-width="1"/>
+<text x="982" y="497" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c0392b">Eliminados: -46 transcritos</text>
+<polygon points="422,539 728,539 728,593 422,593" fill="#117a65" stroke="#ffffff" stroke-width="2" opacity="0.93"/>
+<text x="28" y="564" font-size="13" font-weight="bold" fill="#1a252f">Paso 7: Filtro de Varianza MAD (75% sup.)</text>
+<text x="28" y="583" font-size="11.5" fill="#566573">Matriz final WGCNA (10 muestras x 36.647)</text>
+<text x="575" y="572" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#ffffff">36.647 transcritos (29.8%)</text>
+<rect x="845" y="549" width="275" height="34" rx="6" fill="#fdedec" stroke="#e74c3c" stroke-width="1"/>
+<text x="982" y="571" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c0392b">Eliminados: -17.716 transcritos</text>
+<text x="575" y="662" text-anchor="middle" font-size="12" fill="#34495e">Nota: El conteo de 54.363 corresponde exactamente al Paso 5-6 (Pre-MAD), y 36.647 al Paso 7 (Post-MAD, mads &gt; quantile 0.25).</text>
+</svg>

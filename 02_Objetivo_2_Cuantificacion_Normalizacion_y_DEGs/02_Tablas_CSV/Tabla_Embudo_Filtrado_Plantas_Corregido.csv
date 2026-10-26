@@ -1,0 +1,9 @@
+Paso_Aplicado,Genes_Retenidos,Genes_Eliminados
+"0. Transcriptoma ensamblado (Post-cluster CD-HIT-EST, de 135.008 crudos)",123099,0
+1. Eliminación suma de conteos = 0 (rowSums > 0),122690,409
+2. Eliminación varianza = 0 (var > 0),122690,0
+3. Eliminación suma de conteos < 25 (rowSums >= 25),54435,68255
+4. Eliminación conteos extremos > 50.000,54409,26
+5. Eliminación conteos extremos > 30.000,54363,46
+6. Remoción de duplicados (!duplicated),54363,0
+7. Filtro de Varianza MAD sobre VST (Retención 75% superior),36647,17716
